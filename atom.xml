@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="http://kaixingwu.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://kaixingwu.github.io/"/>
+  <updated>2021-12-21T02:09:04.653Z</updated>
+  <id>http://kaixingwu.github.io/</id>
+  
+  <author>
+    <name>Kaixing Wu</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://kaixingwu.github.io/2021/12/21/hello-world/"/>
+    <id>http://kaixingwu.github.io/2021/12/21/hello-world/</id>
+    <published>2021-12-21T02:09:04.653Z</published>
+    <updated>2021-12-21T02:09:04.653Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css&quot;&gt;&lt;p&gt;Welcome to &lt;a</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
