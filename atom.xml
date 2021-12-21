@@ -6,7 +6,7 @@
   <link href="http://kaixingwu.github.io/atom.xml" rel="self"/>
   
   <link href="http://kaixingwu.github.io/"/>
-  <updated>2021-12-21T10:38:47.758Z</updated>
+  <updated>2021-12-21T12:45:23.127Z</updated>
   <id>http://kaixingwu.github.io/</id>
   
   <author>
@@ -15,6 +15,23 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>本博客的建立</title>
+    <link href="http://kaixingwu.github.io/2021/12/21/%E6%9C%AC%E5%8D%9A%E5%AE%A2%E7%9A%84%E5%BB%BA%E7%AB%8B/"/>
+    <id>http://kaixingwu.github.io/2021/12/21/%E6%9C%AC%E5%8D%9A%E5%AE%A2%E7%9A%84%E5%BB%BA%E7%AB%8B/</id>
+    <published>2021-12-21T11:14:35.000Z</published>
+    <updated>2021-12-21T12:45:23.127Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;记录一下本博客建立的过程与踩过的坑。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="博客" scheme="http://kaixingwu.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
   
   <entry>
     <title>About Me</title>
