@@ -6,8 +6,8 @@
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>关于我</p>
 <span id="more"></span>
 
-<p>现在我还不想告诉你我是谁，或许以后某一天我会重新编写这个页面。<br>不过如果你想联系我，欢迎发邮件到<font color=Blue><a href="mailto:&#x77;&#x75;&#107;&#97;&#105;&#x78;&#105;&#110;&#x67;&#x31;&#48;&#x40;&#103;&#109;&#x61;&#105;&#108;&#46;&#99;&#111;&#109;">&#x77;&#x75;&#107;&#97;&#105;&#x78;&#105;&#110;&#x67;&#x31;&#48;&#x40;&#103;&#109;&#x61;&#105;&#108;&#46;&#99;&#111;&#109;</a></font></p>
-<p>For now, I do not want to tell you who I am. Perheps I will rewrite this page some other day.<br>But if you want to reach me, you are welcome to send an email to <font color=Blue><a href="mailto:&#119;&#x75;&#107;&#x61;&#105;&#120;&#105;&#110;&#103;&#49;&#x30;&#x40;&#103;&#x6d;&#97;&#105;&#x6c;&#46;&#99;&#x6f;&#x6d;">&#119;&#x75;&#107;&#x61;&#105;&#120;&#105;&#110;&#103;&#49;&#x30;&#x40;&#103;&#x6d;&#97;&#105;&#x6c;&#46;&#99;&#x6f;&#x6d;</a></font></p>
+<p>现在我还不想告诉你我是谁，或许以后某一天我会重新编写这个页面。<br>不过如果你想联系我，欢迎发邮件到<font color=Blue><a href="mailto:&#x77;&#117;&#107;&#x61;&#x69;&#x78;&#x69;&#110;&#x67;&#49;&#x30;&#x40;&#103;&#x6d;&#97;&#x69;&#108;&#46;&#x63;&#x6f;&#109;">&#x77;&#117;&#107;&#x61;&#x69;&#x78;&#x69;&#110;&#x67;&#49;&#x30;&#x40;&#103;&#x6d;&#97;&#x69;&#108;&#46;&#x63;&#x6f;&#109;</a></font></p>
+<p>For now, I do not want to tell you who I am. Perheps I will rewrite this page some other day.<br>But if you want to reach me, you are welcome to send an email to <font color=Blue><a href="mailto:&#119;&#x75;&#107;&#x61;&#105;&#120;&#x69;&#x6e;&#x67;&#49;&#48;&#x40;&#x67;&#x6d;&#x61;&#x69;&#108;&#46;&#99;&#x6f;&#x6d;">&#119;&#x75;&#107;&#x61;&#105;&#120;&#x69;&#x6e;&#x67;&#49;&#48;&#x40;&#x67;&#x6d;&#x61;&#x69;&#108;&#46;&#99;&#x6f;&#x6d;</a></font></p>
 ]]></content>
   </entry>
   <entry>
@@ -109,6 +109,84 @@
         <tag>博客</tag>
         <tag>google</tag>
         <tag>Search-engine</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Symmetric matrix and positive-definite matrix</title>
+    <url>/2021/12/30/Symmetric-matrix-and-positive-definite-matrix/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>This is the notes of Lecture 25 from MIT linear algebra course. The content will help my future research work.</p>
+<span id="more"></span>
+<h1 id="1-Symmetric-matrix"><a href="#1-Symmetric-matrix" class="headerlink" title="1. Symmetric matrix"></a>1. Symmetric matrix</h1><h2 id="1-1-Definition"><a href="#1-1-Definition" class="headerlink" title="1.1. Definition:"></a>1.1. Definition:</h2><p>If a real matrix $A$ satisfies the following property:<br>$$<br>A=A^T,<br>$$<br>then $A$ is a symmetric matrix.</p>
+<hr>
+<h2 id="1-2-Properties"><a href="#1-2-Properties" class="headerlink" title="1.2. Properties:"></a>1.2. Properties:</h2><ol>
+<li>The eigenvalues of a symmetric matrix are real.</li>
+<li>The eigenvectors are orthogonal (or we should say the eigenvectors can be chosen to be orthogonal/orthonormal). </li>
+</ol>
+<p>why eigenvalues are real? Prove it! (hint: $\bar xx$ is the length of $x$ and is positive)</p>
+<hr>
+<h2 id="1-3-Comparison-with-usual-matrices"><a href="#1-3-Comparison-with-usual-matrices" class="headerlink" title="1.3. Comparison with usual matrices:"></a>1.3. Comparison with usual matrices:</h2><ol>
+<li><p><strong>Usual matrix:</strong><br>$$<br>A=S\Lambda S^{-1},<br>$$<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; where $S$ is the matrix of eigenvectors and $\Lambda$ is a diagonal matrix of eigenvalues.</p>
+</li>
+<li><p><strong>Symmetric matrix:</strong><br>$$<br>A= Q\Lambda Q^{-1}=Q\Lambda Q^T,<br>$$<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; where $Q$ is an orthonomal matrix so $Q^{-1}=Q^T$.</p>
+</li>
+</ol>
+<hr>
+<h2 id="1-4-Extend-symmetric-matrix-to-complex-matrix"><a href="#1-4-Extend-symmetric-matrix-to-complex-matrix" class="headerlink" title="1.4. Extend symmetric matrix to complex matrix:"></a>1.4. Extend symmetric matrix to complex matrix:</h2><p>If a good matrix is defined to be a matrix whose eigenvalues are all real and eigenvectors are orthogonal, then the matrix is symmetric if it is real, or the matrix is Hessian ($A=\overline{A^T}={\bar A}^T$) if it is complex.</p>
+<hr>
+<h2 id="1-5-Spectral-theorem-for-symmetric-matrix"><a href="#1-5-Spectral-theorem-for-symmetric-matrix" class="headerlink" title="1.5. Spectral theorem for symmetric matrix:"></a>1.5. Spectral theorem for symmetric matrix:</h2><p>$$<br>\begin{align*}<br>A &amp;= Q\Lambda Q^{-1} \newline<br>&amp;=    \begin{bmatrix}<br>        q_1 &amp; q_2 &amp; q_3 &amp; \dots<br>    \end{bmatrix}<br>    \begin{bmatrix}<br>        \lambda_{1} \newline<br>        &amp; \lambda_{2} \newline<br>        &amp; &amp; \lambda_{3} \newline<br>        &amp; &amp; &amp; \ddots<br>    \end{bmatrix}<br>    \begin{bmatrix}<br>        q_1^T \newline<br>        q_2^T \newline<br>        q_3^T \newline<br>        \vdots<br>    \end{bmatrix} \newline<br>&amp;= \lambda_1q_1q_1^T+\lambda_2q_2q_2^T+\lambda_3q_3q_3^T+\dots<br>\end{align*}<br>$$<br>where $q_iq_i^T, i=1,2,\dots$ are projection matrices, since $q_i$’s are unit vectors and are pairwise.<br>So every symmetric matrix is a combination of perpendicular projection matrices. </p>
+<h1 id="2-Positive-definite-matrix"><a href="#2-Positive-definite-matrix" class="headerlink" title="2. Positive-definite matrix"></a>2. Positive-definite matrix</h1><p>Since the eigenvalues are real, it is natural to wonder whether the eigenvalues are positive or negative. This will introduce the problem of positive definite matrix.</p>
+<h2 id="2-1-Definition"><a href="#2-1-Definition" class="headerlink" title="2.1. Definition:"></a>2.1. Definition:</h2><p>If a real symmetric matrix $A$ satisfies the following condition:<br>$$<br>\forall z \text{ is a nonzero real column vector, } z^TAz \text{ is positive.}<br>$$<br>Or if a Hessian matrix $A$ satisfies the following condition:<br>$$<br>\forall z \text{ is a nonzero complex column vector, } z^*Az \text{ is positive.}<br>$$<br>Then $A$ is  a positive-definite matrix.</p>
+<hr>
+<h2 id="2-2-Properties"><a href="#2-2-Properties" class="headerlink" title="2.2. Properties:"></a>2.2. Properties:</h2><ol>
+<li><p>Positive-definite matrix is symmetric ($A=A^T$, for real matrix) or Hessian ($A=\overline{A^T}={\bar A}^T$, for complex matrix). </p>
+</li>
+<li><p> All eigenvalues are positive. </p>
+</li>
+<li><p>All sub-determinants are positive for positive-definite matrix.<br>e.g. $<br>\begin{bmatrix}<br> 5 &amp; 3 \newline<br> 3 &amp; 5<br>\end{bmatrix}$ is a positive-definite matrix. Its sub-determinants, $<br>det(\begin{bmatrix}<br>5<br>\end{bmatrix})$ and $<br>det(\begin{bmatrix}<br> 5 &amp; 3 \newline<br> 3 &amp; 5<br>\end{bmatrix})$ are both positive.</p>
+</li>
+<li><p>All pivots are positive.</p>
+</li>
+</ol>
+<h1 id="3-Appendix"><a href="#3-Appendix" class="headerlink" title="3. Appendix"></a>3. Appendix</h1><ol>
+<li><p>For symmetric matrix, the signs of the eigenvalues are the same as the signs of the pivots. Also, the number of positive pivots equals the number of positive eigenvalues.</p>
+</li>
+<li><p>For general matrix, $product$ $of$ $the$ $pivots = determinant = product$ $of$ $eigenvalues$.<br> 2.1. The first equation is easy to prove (Gaussian elimination does not change determinant). The first equation applies to all square matrices.<br> 2.2. The second equation is that $det(A-\lambda I)=(\lambda_1-\lambda)(\lambda_2-\lambda)\dots$ is a function about $\lambda$. Take $\lambda=0$ then we will get $det(A)=\lambda_1\lambda_2\dots$. Second equation applies for all square matrices.</p>
+</li>
+</ol>
+]]></content>
+      <categories>
+        <category>Research</category>
+        <category>学习</category>
+      </categories>
+      <tags>
+        <tag>Matrix</tag>
+        <tag>Symmetric-matrix</tag>
+        <tag>Positive-definite-matrix</tag>
+        <tag>MIT</tag>
+        <tag>Linear-algebra</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Understand matrix multiplication</title>
+    <url>/2021/12/30/Understand-matrix-multiplication/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>This is the notes of part of Lecture 3 from MIT course 18.06, linear algebra. The content will help my future research work.</p>
+<span id="more"></span>
+<p>There are four ways to perform multiplication of matrices.<br>$$<br>A\cdot B=C,<br>$$<br>where $A$ is m-by-n, $B$ is n-by-p, $C$ is m-by-p.</p>
+<hr>
+<h2 id="1-Row-column"><a href="#1-Row-column" class="headerlink" title="1. Row * column"></a>1. Row * column</h2><p>$$<br>C_{2,3} = (\text{row 3 of }A)*(\text{column 4 of }B)\<br>$$</p>
+<h2 id="2-Column-column"><a href="#2-Column-column" class="headerlink" title="2. Column * column"></a>2. Column * column</h2><p>$$<br>A*(\text{column 3 of }B)=\text{column 3 of }C<br>$$</p>
+<h2 id="3-Row-row"><a href="#3-Row-row" class="headerlink" title="3. Row * row"></a>3. Row * row</h2><p>$$<br>(\text{row 2 of })A*B=\text{row 2 of }C<br>$$</p>
+<h2 id="4-Column-row"><a href="#4-Column-row" class="headerlink" title="4. Column * row"></a>4. Column * row</h2><p>Idea: $(\text{m-by-1 vector})\cdot(\text{1-by-p vector})=\text{m-by-p matrix}$<br>$$<br>sum[(\text{column i of }A)*(\text{row j of }B)]=C<br>$$</p>
+]]></content>
+      <categories>
+        <category>Research</category>
+        <category>学习</category>
+      </categories>
+      <tags>
+        <tag>Matrix</tag>
+        <tag>MIT</tag>
+        <tag>Linear-algebra</tag>
+        <tag>Matrix-multiplication</tag>
       </tags>
   </entry>
 </search>

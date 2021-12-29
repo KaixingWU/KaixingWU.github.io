@@ -6,7 +6,7 @@
   <link href="http://kaixingwu.github.io/atom.xml" rel="self"/>
   
   <link href="http://kaixingwu.github.io/"/>
-  <updated>2021-12-22T18:30:30.000Z</updated>
+  <updated>2021-12-29T16:27:42.000Z</updated>
   <id>http://kaixingwu.github.io/</id>
   
   <author>
@@ -15,6 +15,62 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Symmetric matrix and positive-definite matrix</title>
+    <link href="http://kaixingwu.github.io/2021/12/30/Symmetric-matrix-and-positive-definite-matrix/"/>
+    <id>http://kaixingwu.github.io/2021/12/30/Symmetric-matrix-and-positive-definite-matrix/</id>
+    <published>2021-12-29T16:27:41.000Z</published>
+    <updated>2021-12-29T16:27:42.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;This is the notes of Lecture 25 from MIT linear algebra course. The content will help my future research work.&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Research" scheme="http://kaixingwu.github.io/categories/Research/"/>
+    
+    <category term="学习" scheme="http://kaixingwu.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="Matrix" scheme="http://kaixingwu.github.io/tags/Matrix/"/>
+    
+    <category term="Symmetric-matrix" scheme="http://kaixingwu.github.io/tags/Symmetric-matrix/"/>
+    
+    <category term="Positive-definite-matrix" scheme="http://kaixingwu.github.io/tags/Positive-definite-matrix/"/>
+    
+    <category term="MIT" scheme="http://kaixingwu.github.io/tags/MIT/"/>
+    
+    <category term="Linear-algebra" scheme="http://kaixingwu.github.io/tags/Linear-algebra/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Understand matrix multiplication</title>
+    <link href="http://kaixingwu.github.io/2021/12/30/Understand-matrix-multiplication/"/>
+    <id>http://kaixingwu.github.io/2021/12/30/Understand-matrix-multiplication/</id>
+    <published>2021-12-29T16:26:37.000Z</published>
+    <updated>2021-12-29T16:26:37.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;This is the notes of part of Lecture 3 from MIT course 18.06, linear algebra. The content will help my future research work.&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Research" scheme="http://kaixingwu.github.io/categories/Research/"/>
+    
+    <category term="学习" scheme="http://kaixingwu.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="Matrix" scheme="http://kaixingwu.github.io/tags/Matrix/"/>
+    
+    <category term="MIT" scheme="http://kaixingwu.github.io/tags/MIT/"/>
+    
+    <category term="Linear-algebra" scheme="http://kaixingwu.github.io/tags/Linear-algebra/"/>
+    
+    <category term="Matrix-multiplication" scheme="http://kaixingwu.github.io/tags/Matrix-multiplication/"/>
+    
+  </entry>
   
   <entry>
     <title>更改博客配置适应谷歌抓取</title>
