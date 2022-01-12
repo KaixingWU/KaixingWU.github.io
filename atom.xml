@@ -6,7 +6,7 @@
   <link href="http://kaixingwu.github.io/atom.xml" rel="self"/>
   
   <link href="http://kaixingwu.github.io/"/>
-  <updated>2021-12-29T16:27:42.000Z</updated>
+  <updated>2022-01-12T16:05:30.000Z</updated>
   <id>http://kaixingwu.github.io/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>给父亲装新PC主机</title>
+    <link href="http://kaixingwu.github.io/2022/01/12/Build-new-pc/"/>
+    <id>http://kaixingwu.github.io/2022/01/12/Build-new-pc/</id>
+    <published>2022-01-12T14:52:59.000Z</published>
+    <updated>2022-01-12T16:05:30.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;记录一下我2022.1.10给我爸花了一下午和一晚上装自己DIY配置的主机和windows系统搞到凌晨3点的装机过程。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="生活" scheme="http://kaixingwu.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    <category term="技术" scheme="http://kaixingwu.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="电脑" scheme="http://kaixingwu.github.io/tags/%E7%94%B5%E8%84%91/"/>
+    
+    <category term="pc" scheme="http://kaixingwu.github.io/tags/pc/"/>
+    
+    <category term="主机" scheme="http://kaixingwu.github.io/tags/%E4%B8%BB%E6%9C%BA/"/>
+    
+    <category term="windows" scheme="http://kaixingwu.github.io/tags/windows/"/>
+    
+    <category term="家人" scheme="http://kaixingwu.github.io/tags/%E5%AE%B6%E4%BA%BA/"/>
+    
+  </entry>
   
   <entry>
     <title>Symmetric matrix and positive-definite matrix</title>

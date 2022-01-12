@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://kaixingwu.github.io/2022/01/12/Build-new-pc/</loc>
+    
+    <lastmod>2022-01-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://kaixingwu.github.io/2021/12/30/Symmetric-matrix-and-positive-definite-matrix/</loc>
     
     <lastmod>2021-12-29</lastmod>
@@ -94,120 +103,155 @@
 
   <url>
     <loc>http://kaixingwu.github.io/</loc>
-    <lastmod>2021-12-29</lastmod>
+    <lastmod>2022-01-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
+    <loc>http://kaixingwu.github.io/tags/%E7%94%B5%E8%84%91/</loc>
+    <lastmod>2022-01-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://kaixingwu.github.io/tags/pc/</loc>
+    <lastmod>2022-01-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://kaixingwu.github.io/tags/%E4%B8%BB%E6%9C%BA/</loc>
+    <lastmod>2022-01-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://kaixingwu.github.io/tags/windows/</loc>
+    <lastmod>2022-01-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://kaixingwu.github.io/tags/%E5%AE%B6%E4%BA%BA/</loc>
+    <lastmod>2022-01-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://kaixingwu.github.io/tags/iCourt/</loc>
-    <lastmod>2021-12-29</lastmod>
+    <lastmod>2022-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://kaixingwu.github.io/tags/%E6%9C%89%E6%95%88%E6%B2%9F%E9%80%9A/</loc>
-    <lastmod>2021-12-29</lastmod>
+    <lastmod>2022-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://kaixingwu.github.io/tags/%E9%99%88%E5%B0%91%E6%96%87/</loc>
-    <lastmod>2021-12-29</lastmod>
+    <lastmod>2022-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://kaixingwu.github.io/tags/%E6%BC%94%E8%AE%B2/</loc>
-    <lastmod>2021-12-29</lastmod>
+    <lastmod>2022-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://kaixingwu.github.io/tags/%E9%80%BB%E8%BE%91/</loc>
-    <lastmod>2021-12-29</lastmod>
+    <lastmod>2022-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://kaixingwu.github.io/tags/%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2021-12-29</lastmod>
+    <lastmod>2022-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://kaixingwu.github.io/tags/Hexo/</loc>
-    <lastmod>2021-12-29</lastmod>
+    <lastmod>2022-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://kaixingwu.github.io/tags/Ayer/</loc>
-    <lastmod>2021-12-29</lastmod>
+    <lastmod>2022-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://kaixingwu.github.io/tags/google/</loc>
-    <lastmod>2021-12-29</lastmod>
+    <lastmod>2022-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://kaixingwu.github.io/tags/Search-engine/</loc>
-    <lastmod>2021-12-29</lastmod>
+    <lastmod>2022-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://kaixingwu.github.io/tags/Matrix/</loc>
-    <lastmod>2021-12-29</lastmod>
+    <lastmod>2022-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://kaixingwu.github.io/tags/Symmetric-matrix/</loc>
-    <lastmod>2021-12-29</lastmod>
+    <lastmod>2022-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://kaixingwu.github.io/tags/Positive-definite-matrix/</loc>
-    <lastmod>2021-12-29</lastmod>
+    <lastmod>2022-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://kaixingwu.github.io/tags/MIT/</loc>
-    <lastmod>2021-12-29</lastmod>
+    <lastmod>2022-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://kaixingwu.github.io/tags/Linear-algebra/</loc>
-    <lastmod>2021-12-29</lastmod>
+    <lastmod>2022-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://kaixingwu.github.io/tags/Matrix-multiplication/</loc>
-    <lastmod>2021-12-29</lastmod>
+    <lastmod>2022-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -216,28 +260,28 @@
   
   <url>
     <loc>http://kaixingwu.github.io/categories/%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2021-12-29</lastmod>
+    <lastmod>2022-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://kaixingwu.github.io/categories/%E6%8A%80%E6%9C%AF/</loc>
-    <lastmod>2021-12-29</lastmod>
+    <lastmod>2022-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://kaixingwu.github.io/categories/Research/</loc>
-    <lastmod>2021-12-29</lastmod>
+    <lastmod>2022-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://kaixingwu.github.io/categories/%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2021-12-29</lastmod>
+    <lastmod>2022-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
