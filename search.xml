@@ -6,9 +6,36 @@
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>关于我</p>
 <span id="more"></span>
 
-<p>现在我还不想告诉你我是谁，或许以后某一天我会重新编写这个页面。<br>不过如果你想联系我，欢迎发邮件到<font color=Blue><a href="mailto:&#119;&#x75;&#107;&#97;&#x69;&#x78;&#x69;&#110;&#x67;&#x31;&#x30;&#x40;&#x67;&#x6d;&#97;&#105;&#108;&#x2e;&#x63;&#111;&#x6d;">&#119;&#x75;&#107;&#97;&#x69;&#x78;&#x69;&#110;&#x67;&#x31;&#x30;&#x40;&#x67;&#x6d;&#97;&#105;&#108;&#x2e;&#x63;&#111;&#x6d;</a></font></p>
-<p>For now, I do not want to tell you who I am. Perheps I will rewrite this page some other day.<br>But if you want to reach me, you are welcome to send an email to <font color=Blue><a href="mailto:&#x77;&#x75;&#x6b;&#x61;&#105;&#x78;&#105;&#x6e;&#x67;&#x31;&#48;&#x40;&#x67;&#x6d;&#x61;&#105;&#x6c;&#46;&#99;&#111;&#x6d;">&#x77;&#x75;&#x6b;&#x61;&#105;&#x78;&#105;&#x6e;&#x67;&#x31;&#48;&#x40;&#x67;&#x6d;&#x61;&#105;&#x6c;&#46;&#99;&#111;&#x6d;</a></font></p>
+<p>现在我还不想告诉你我是谁，或许以后某一天我会重新编写这个页面。<br>不过如果你想联系我，欢迎发邮件到<font color=Blue><a href="mailto:&#x77;&#117;&#x6b;&#97;&#105;&#x78;&#x69;&#110;&#x67;&#49;&#48;&#64;&#x67;&#x6d;&#x61;&#105;&#108;&#46;&#x63;&#x6f;&#x6d;">&#x77;&#117;&#x6b;&#97;&#105;&#x78;&#x69;&#110;&#x67;&#49;&#48;&#64;&#x67;&#x6d;&#x61;&#105;&#108;&#46;&#x63;&#x6f;&#x6d;</a></font></p>
+<p>For now, I do not want to tell you who I am. Perheps I will rewrite this page some other day.<br>But if you want to reach me, you are welcome to send an email to <font color=Blue><a href="mailto:&#x77;&#x75;&#107;&#x61;&#x69;&#120;&#105;&#110;&#x67;&#49;&#48;&#x40;&#103;&#x6d;&#x61;&#105;&#x6c;&#46;&#99;&#111;&#109;">&#x77;&#x75;&#107;&#x61;&#x69;&#120;&#105;&#110;&#x67;&#49;&#48;&#x40;&#103;&#x6d;&#x61;&#105;&#x6c;&#46;&#99;&#111;&#109;</a></font></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>给父亲装新PC主机</title>
+    <url>/2022/01/12/Build-new-pc/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>记录一下我2022.1.10给我爸花了一下午和一晚上装自己DIY配置的主机和windows系统搞到凌晨3点的装机过程。</p>
+<span id="more"></span>
+<p>2022.1.7我回家后，替我爸开电脑的时候发现电脑实在是慢的出奇，深感不满。于是看了几天的配置，终于在1.10的时候把新主机配好在京东下了单，配置如下：</p>
+<blockquote>
+<p>CPU: AMD R5-5600G 3年保修<br>主板：微星MSI B550M Mortar WIFI迫击炮 3年保修<br>以上两样在京东自营买的套装，共计￥2289。<br>内存：威刚 DDR4 3200Hz XPG-威龙Z1 8GB内存条x2 终身保修 ￥440<br>硬盘：铠侠 500GB SSD固态硬盘 RD20电竞之心 5年保修￥389<br>电源：航嘉 WD500K 金牌500W电源 3年质保 ￥230<br>机箱：航嘉 GS400C黑色机箱 1年质保 ￥90<br>显示屏：SANC 24寸144Hz 1920x1080 N50Pro2代 3年质保 ￥869<br>不带显示屏京东优惠后￥3330</p>
+</blockquote>
+<p>为什么不买显卡呢？因为我爸日常知识处理文字工作并且不玩什么游戏，最爱玩的就是闪电战系列等即时策略类游戏，对于画面和显卡要求不高，所以买的时候就是买的带核显的CPU。</p>
+<p>显示屏现在比半年前涨价太多了，可能有30~40%以上的涨价。因为主板上只有一个HDMI接口和DP接口，而我爸的主显示屏是144Hz&amp;2K的27寸大屏，使用了HDMI接口，所以我对于副屏显示器的要求是要有DP接口，以便实现我爸要求的双屏办公。同价位的显示屏只能在2K和144Hz两项配置中选择一项，我爸选择了144Hz，所以入手了这个显示器。</p>
+<p>其实买这一套的时候最新的Intel的12代大换代CPU已经出来几天了，DDR5的内存也出来了，但是考虑到DDR5内存的价格和最新12代CPU的适配调整问题，也就没有入手了。这一套我初步预计我爸可以用5年左右。考虑到他上一台主机差不多也是6、7年前的产品了（Intel i5-6500和GTX710），这个预计使用时间应该没什么问题。</p>
+<p>在此我要特别感谢up主赵铁柱的<a href="https://www.bilibili.com/video/BV1k64y1h7QP?spm_id_from=333.999.0.0">装机入门</a>和<a href="https://www.bilibili.com/video/BV1UU4y1c74o?spm_id_from=333.999.0.0">手把手教我装机</a>的视频，直接让我从一个完全不知道怎么装电脑配电脑的人配出了上面这个配置，我心满意足。同一个up主的<a href="https://www.bilibili.com/video/BV1UP4y1L7io?spm_id_from=333.999.0.0">装windows系统</a>视频也是非常有用，让我从一个小白学会了windows 10装机。</p>
+<p>说实话，这次装机最大的收获在两个方面。硬件方面是完全搞明白了一台主机由哪些部分组成，各自起什么作用，有哪些需要注意的细节，还有就是主板bios的设置和调整；软件部分是弄明白了怎么装windows，驱动程序是什么，为什么需要驱动。最后配出来的结果是我也开心，我爸也开心，双赢！</p>
+]]></content>
+      <categories>
+        <category>生活</category>
+        <category>技术</category>
+      </categories>
+      <tags>
+        <tag>电脑</tag>
+        <tag>pc</tag>
+        <tag>主机</tag>
+        <tag>windows</tag>
+        <tag>家人</tag>
+      </tags>
   </entry>
   <entry>
     <title>有效沟通</title>
@@ -57,30 +84,18 @@
       </tags>
   </entry>
   <entry>
-    <title>给父亲装新PC主机</title>
-    <url>/2022/01/12/Build-new-pc/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>记录一下我2022.1.10给我爸花了一下午和一晚上装自己DIY配置的主机和windows系统搞到凌晨3点的装机过程。</p>
+    <title>本博客的建立</title>
+    <url>/2021/12/21/Establishment-of-this-blog/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>记录一下本博客建立的过程与踩过的坑。</p>
 <span id="more"></span>
-<p>2022.1.7我回家后，替我爸开电脑的时候发现电脑实在是慢的出奇，深感不满。于是看了几天的配置，终于在1.10的时候把新主机配好在京东下了单，配置如下：</p>
-<blockquote>
-<p>CPU: AMD R5-5600G 3年保修<br>主板：微星MSI B550M Mortar WIFI迫击炮 3年保修<br>以上两样在京东自营买的套装，共计￥2289。<br>内存：威刚 DDR4 3200Hz XPG-威龙Z1 8GB内存条x2 终身保修 ￥440<br>硬盘：铠侠 500GB SSD固态硬盘 RD20电竞之心 5年保修￥389<br>电源：航嘉 WD500K 金牌500W电源 3年质保 ￥230<br>机箱：航嘉 GS400C黑色机箱 1年质保 ￥90<br>显示屏：SANC 24寸144Hz 1920x1080 N50Pro2代 3年质保 ￥869<br>不带显示屏京东优惠后￥3330</p>
-</blockquote>
-<p>为什么不买显卡呢？因为我爸日常知识处理文字工作并且不玩什么游戏，最爱玩的就是闪电战系列等即时策略类游戏，对于画面和显卡要求不高，所以买的时候就是买的带核显的CPU。</p>
-<p>显示屏现在比半年前涨价太多了，可能有30~40%以上的涨价。因为主板上只有一个HDMI接口和DP接口，而我爸的主显示屏是144Hz&amp;2K的27寸大屏，使用了HDMI接口，所以我对于副屏显示器的要求是要有DP接口，以便实现我爸要求的双屏办公。同价位的显示屏只能在2K和144Hz两项配置中选择一项，我爸选择了144Hz，所以入手了这个显示器。</p>
-<p>其实买这一套的时候最新的Intel的12代大换代CPU已经出来几天了，DDR5的内存也出来了，但是考虑到DDR5内存的价格和最新12代CPU的适配调整问题，也就没有入手了。这一套我初步预计我爸可以用5年左右。考虑到他上一台主机差不多也是6、7年前的产品了（Intel i5-6500和GTX710），这个预计使用时间应该没什么问题。</p>
-<p>在此我要特别感谢up主赵铁柱的<a href="https://www.bilibili.com/video/BV1k64y1h7QP?spm_id_from=333.999.0.0">装机入门</a>和<a href="https://www.bilibili.com/video/BV1UU4y1c74o?spm_id_from=333.999.0.0">手把手教我装机</a>的视频，直接让我从一个完全不知道怎么装电脑配电脑的人配出了上面这个配置，我心满意足。同一个up主的<a href="https://www.bilibili.com/video/BV1UP4y1L7io?spm_id_from=333.999.0.0">装windows系统</a>视频也是非常有用，让我从一个小白学会了windows 10装机。</p>
-<p>说实话，这次装机最大的收获在两个方面。硬件方面是完全搞明白了一台主机由哪些部分组成，各自起什么作用，有哪些需要注意的细节，还有就是主板bios的设置和调整；软件部分是弄明白了怎么装windows，驱动程序是什么，为什么需要驱动。最后配出来的结果是我也开心，我爸也开心，双赢！</p>
+<p>今天一天把这个博客搭建起来了，主要参考的资料是少数派的<a href="https://sspai.com/post/59337">这篇文章</a>和我使用的<a href="https://shen-yu.gitee.io/2019/ayer/">主题的博客</a>，我所采用的方案也是<a href="https://hexo.io/zh-cn/">Hexo</a>和Github Pages的结合。两篇文章写得非常详细，也能够覆盖我所遇到的大部分问题，但还是有些东西想提醒以后的自己或者其他人。</p>
+<p>一个问题是关于自己下载的主题使用。在Hexo/Themes文件中，下载的第三方主题文件夹名字需要和主题中自带的_config.yml中主题名字、Hexo/_config.yml中theme变量名字完全一样，不然可能会遇到deploy不了主题的麻烦。</p>
+<p>另一个问题是使用”hexo deploy”时的报错。有时候使用”hexo deploy”时会有”OpenSSL SSL_connect“相关的报错，这是因为使用梯子的时候没有采用全局模式，terminal和Github的连接被墙连接不上所导致的。解决的方案是使用梯子的全局模式或者关闭梯子尝试直接连接。</p>
 ]]></content>
-      <categories>
-        <category>生活</category>
-        <category>技术</category>
-      </categories>
       <tags>
-        <tag>电脑</tag>
-        <tag>pc</tag>
-        <tag>主机</tag>
-        <tag>windows</tag>
-        <tag>家人</tag>
+        <tag>博客</tag>
+        <tag>Hexo</tag>
+        <tag>Ayer</tag>
       </tags>
   </entry>
   <entry>
@@ -99,18 +114,28 @@
       </tags>
   </entry>
   <entry>
-    <title>本博客的建立</title>
-    <url>/2021/12/21/Establishment-of-this-blog/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>记录一下本博客建立的过程与踩过的坑。</p>
+    <title>更改博客配置适应谷歌抓取</title>
+    <url>/2021/12/23/Optimize-Blog-for-search-engine/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>本文介绍今晚根据<a href="https://shen-yu.gitee.io/2020/hexo-seo/">Ayer的文章</a>和<a href="https://cloud.tencent.com/developer/article/1736970">其他人的博客</a>折腾怎么才能被google抓取博客网站的时候遇到的事情。</p>
 <span id="more"></span>
-<p>今天一天把这个博客搭建起来了，主要参考的资料是少数派的<a href="https://sspai.com/post/59337">这篇文章</a>和我使用的<a href="https://shen-yu.gitee.io/2019/ayer/">主题的博客</a>，我所采用的方案也是<a href="https://hexo.io/zh-cn/">Hexo</a>和Github Pages的结合。两篇文章写得非常详细，也能够覆盖我所遇到的大部分问题，但还是有些东西想提醒以后的自己或者其他人。</p>
-<p>一个问题是关于自己下载的主题使用。在Hexo/Themes文件中，下载的第三方主题文件夹名字需要和主题中自带的_config.yml中主题名字、Hexo/_config.yml中theme变量名字完全一样，不然可能会遇到deploy不了主题的麻烦。</p>
-<p>另一个问题是使用”hexo deploy”时的报错。有时候使用”hexo deploy”时会有”OpenSSL SSL_connect“相关的报错，这是因为使用梯子的时候没有采用全局模式，terminal和Github的连接被墙连接不上所导致的。解决的方案是使用梯子的全局模式或者关闭梯子尝试直接连接。</p>
+<p>首先是先安装两个插件</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">yarn add hexo-generator-sitemap</span><br><span class="line">yarn add hexo-generator-baidu-sitemap</span><br></pre></td></tr></table></figure>
+
+<p>然后就是常规指令</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo clean</span><br><span class="line">hexo s</span><br><span class="line">hexo generate</span><br><span class="line">hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>其中，<code>hexo s</code>指令是查看<code>localhost:4000/sitemap.xml</code>和<code>localhost:4000/baidusitemap.xml</code>两个生成的文件是否有问题。</p>
+<p><font color=Red>注意！</font>在这两个文件最开始显示”<font color=Blue>This XML file does not appear to have any style information associated with it. The document tree is shown below.</font>“不代表文件有问题！</p>
+<p>另一个教训是<code>.md</code>文件的名字采用英文字符，标题用中文没关系。</p>
+<p>最后一个教训是，在谷歌的<a href="https://search.google.com/search-console?resource_id=https://kaixingwu.github.io/">站点地图</a>上传<code>.xml</code>站点地图后显示“无法获取”时不要慌。根据<a href="https://support.google.com/webmasters/answer/7474347?hl=zh-Hans">谷歌的说法</a>，可能需要一周的时间才有反馈和更新，心急吃不了热豆腐！</p>
 ]]></content>
+      <categories>
+        <category>技术</category>
+      </categories>
       <tags>
         <tag>博客</tag>
-        <tag>Hexo</tag>
-        <tag>Ayer</tag>
+        <tag>google</tag>
+        <tag>Search-engine</tag>
       </tags>
   </entry>
   <entry>
@@ -169,30 +194,6 @@
       </tags>
   </entry>
   <entry>
-    <title>从2021我的年度总结到我爸的人生经验</title>
-    <url>/2022/01/16/from-2021-annual-summary-to-my-father-experience/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>记录下今天的家庭会议，我爸的人生经验和经历让我受益匪浅。</p>
-<span id="more"></span>
-<p>今天和父母一起开了去年的年度报告总结会，我过去的一年是上大学三年来最烂的一年。没有什么事情，没有什么成就。我在逃避一种恐惧感觉。我对“我想干什么、我以后要干什么”这些问题没有答案。我对于自己没有答案的这种状态感到恐惧。所以一切可以用来逃避的方式我都会去试，比如不停地吃东西，吃爽了就可以高兴一下忘记烦恼，所以会不停吃东西。</p>
-<p>我爸说，他30岁之前也很迷茫，在六个单位做了7种岗位，所以他对我的想法也是在30岁前肯定会犯错，但是没有关系，因为年轻人肯定会这样。</p>
-<p>以后事情也要像之前教我的那样分成重要紧急的四象限。他对于事情要分轻重缓急的体会就是在麦德龙做部门主管的时候养成的。那时候他要在商场做事情很忙，但是新的货到了又要他去仓库签字接收。他常常要在商场和仓库间来回跑。他发现这样效率很低，而商场里的事情更重要，所以他会拖一下仓库的接受，把手头的事情某个阶段性结束后才会去仓库，反正那件事情会一直等着他，他不签字别人不会走的。</p>
-<p>他在准备律师资格考试的时候是全力以赴的。什么是全力以赴？他把所有市面上的资料都买来了，网课也都报了名。钱是最不重要的。他甚至辞了职把所有的时间都拿来准备考试。早上6点起床，晚上12点睡觉，午觉只睡10分钟，洗漱吃饭都很快的。</p>
-<p>他现在有时候也会去麦德龙买点东西，因为他感觉有另一个自己留在了麦德龙。他去麦德龙的时候看到墙上的员工名单还有自己曾经的同事坐上了副总经理的职务，他觉得自己如果在麦德龙接着待下去，自己也最多做到这个职位了，现在看能不能每个月拿一万块钱。如果那样，家里的经济状况肯定会比现在差很多。</p>
-<p>现在想来，他30岁前的折腾应该是走对了，他现在很多用到的方法和习惯都是30岁前养成。但是他在35岁之前并不肯定自己走的路是对是错。这说明对与错之间其实很难说。但是重要的是有收获。他经常是在一个地方干一段时间就离职应聘其他的去了。像我爸最亲密的同事兼朋友祁，比我爸早入行5年，却比我爸晚7年放单飞揽业务，祁在单位只做了半年就当了律师，比我爸欠缺的就是在公司工作的几年，但我爸借此积累了人脉和对于公司商业模式的理解。</p>
-<p>不要怕困难，困难的事情才能刷掉一批人，把人们区分出来。人只有往低处走才感觉是容易的，只要是往高处走都会感觉困难。如果困难的事情你做出来了，那么就是说明你比一大批人都厉害。</p>
-<p>事情永远不要拖，哪怕那件事情在今天看来又不重要又不紧急、以后有大把时间去做，也不要拖，因为你永远不知道明天会不会有个电话来个邮件让你立刻去做什么其他的事情。</p>
-]]></content>
-      <categories>
-        <category>生活</category>
-        <category>人生经验</category>
-      </categories>
-      <tags>
-        <tag>家人</tag>
-        <tag>年终总结</tag>
-        <tag>人生经验</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Understand matrix multiplication</title>
     <url>/2021/12/30/Understand-matrix-multiplication/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>This is the notes of part of Lecture 3 from MIT course 18.06, linear algebra. The content will help my future research work.</p>
@@ -216,28 +217,27 @@
       </tags>
   </entry>
   <entry>
-    <title>更改博客配置适应谷歌抓取</title>
-    <url>/2021/12/23/Optimize-Blog-for-search-engine/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>本文介绍今晚根据<a href="https://shen-yu.gitee.io/2020/hexo-seo/">Ayer的文章</a>和<a href="https://cloud.tencent.com/developer/article/1736970">其他人的博客</a>折腾怎么才能被google抓取博客网站的时候遇到的事情。</p>
+    <title>从2021我的年度总结到我爸的人生经验</title>
+    <url>/2022/01/16/from-2021-annual-summary-to-my-father-experience/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>记录下今天的家庭会议，我爸的人生经验和经历让我受益匪浅。</p>
 <span id="more"></span>
-<p>首先是先安装两个插件</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">yarn add hexo-generator-sitemap</span><br><span class="line">yarn add hexo-generator-baidu-sitemap</span><br></pre></td></tr></table></figure>
-
-<p>然后就是常规指令</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo clean</span><br><span class="line">hexo s</span><br><span class="line">hexo generate</span><br><span class="line">hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>其中，<code>hexo s</code>指令是查看<code>localhost:4000/sitemap.xml</code>和<code>localhost:4000/baidusitemap.xml</code>两个生成的文件是否有问题。</p>
-<p><font color=Red>注意！</font>在这两个文件最开始显示”<font color=Blue>This XML file does not appear to have any style information associated with it. The document tree is shown below.</font>“不代表文件有问题！</p>
-<p>另一个教训是<code>.md</code>文件的名字采用英文字符，标题用中文没关系。</p>
-<p>最后一个教训是，在谷歌的<a href="https://search.google.com/search-console?resource_id=https://kaixingwu.github.io/">站点地图</a>上传<code>.xml</code>站点地图后显示“无法获取”时不要慌。根据<a href="https://support.google.com/webmasters/answer/7474347?hl=zh-Hans">谷歌的说法</a>，可能需要一周的时间才有反馈和更新，心急吃不了热豆腐！</p>
+<p>今天和父母一起开了去年的年度报告总结会，我过去的一年是上大学三年来最烂的一年。没有什么事情，没有什么成就。我在逃避一种恐惧感觉。我对“我想干什么、我以后要干什么”这些问题没有答案。我对于自己没有答案的这种状态感到恐惧。所以一切可以用来逃避的方式我都会去试，比如不停地吃东西，吃爽了就可以高兴一下忘记烦恼，所以会不停吃东西。</p>
+<p>我爸说，他30岁之前也很迷茫，在六个单位做了7种岗位，所以他对我的想法也是在30岁前肯定会犯错，但是没有关系，因为年轻人肯定会这样。</p>
+<p>以后事情也要像之前教我的那样分成重要紧急的四象限。他对于事情要分轻重缓急的体会就是在麦德龙做部门主管的时候养成的。那时候他要在商场做事情很忙，但是新的货到了又要他去仓库签字接收。他常常要在商场和仓库间来回跑。他发现这样效率很低，而商场里的事情更重要，所以他会拖一下仓库的接受，把手头的事情某个阶段性结束后才会去仓库，反正那件事情会一直等着他，他不签字别人不会走的。</p>
+<p>他在准备律师资格考试的时候是全力以赴的。什么是全力以赴？他把所有市面上的资料都买来了，网课也都报了名。钱是最不重要的。他甚至辞了职把所有的时间都拿来准备考试。早上6点起床，晚上12点睡觉，午觉只睡10分钟，洗漱吃饭都很快的。</p>
+<p>他现在有时候也会去麦德龙买点东西，因为他感觉有另一个自己留在了麦德龙。他去麦德龙的时候看到墙上的员工名单还有自己曾经的同事坐上了副总经理的职务，他觉得自己如果在麦德龙接着待下去，自己也最多做到这个职位了，现在看能不能每个月拿一万块钱。如果那样，家里的经济状况肯定会比现在差很多。</p>
+<p>现在想来，他30岁前的折腾应该是走对了，他现在很多用到的方法和习惯都是30岁前养成。但是他在35岁之前并不肯定自己走的路是对是错。这说明对与错之间其实很难说。但是重要的是有收获。他经常是在一个地方干一段时间就离职应聘其他的去了。像我爸最亲密的同事兼朋友祁，比我爸早入行5年，却比我爸晚7年放单飞揽业务，祁在单位只做了半年就当了律师，比我爸欠缺的就是在公司工作的几年，但我爸借此积累了人脉和对于公司商业模式的理解。</p>
+<p>不要怕困难，困难的事情才能刷掉一批人，把人们区分出来。人只有往低处走才感觉是容易的，只要是往高处走都会感觉困难。如果困难的事情你做出来了，那么就是说明你比一大批人都厉害。</p>
+<p>事情永远不要拖，哪怕那件事情在今天看来又不重要又不紧急、以后有大把时间去做，也不要拖，因为你永远不知道明天会不会有个电话来个邮件让你立刻去做什么其他的事情。</p>
 ]]></content>
       <categories>
-        <category>技术</category>
+        <category>生活</category>
+        <category>人生经验</category>
       </categories>
       <tags>
-        <tag>博客</tag>
-        <tag>google</tag>
-        <tag>Search-engine</tag>
+        <tag>家人</tag>
+        <tag>年终总结</tag>
+        <tag>人生经验</tag>
       </tags>
   </entry>
 </search>
