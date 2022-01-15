@@ -6,7 +6,7 @@
   <link href="http://kaixingwu.github.io/atom.xml" rel="self"/>
   
   <link href="http://kaixingwu.github.io/"/>
-  <updated>2022-01-12T16:05:30.000Z</updated>
+  <updated>2022-01-15T16:53:10.000Z</updated>
   <id>http://kaixingwu.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>从2021我的年度总结到我爸的人生经验</title>
+    <link href="http://kaixingwu.github.io/2022/01/16/from-2021-annual-summary-to-my-father-experience/"/>
+    <id>http://kaixingwu.github.io/2022/01/16/from-2021-annual-summary-to-my-father-experience/</id>
+    <published>2022-01-15T16:39:02.000Z</published>
+    <updated>2022-01-15T16:53:10.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;记录下今天的家庭会议，我爸的人生经验和经历让我受益匪浅。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="生活" scheme="http://kaixingwu.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    <category term="人生经验" scheme="http://kaixingwu.github.io/categories/%E7%94%9F%E6%B4%BB/%E4%BA%BA%E7%94%9F%E7%BB%8F%E9%AA%8C/"/>
+    
+    
+    <category term="家人" scheme="http://kaixingwu.github.io/tags/%E5%AE%B6%E4%BA%BA/"/>
+    
+    <category term="年终总结" scheme="http://kaixingwu.github.io/tags/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/"/>
+    
+    <category term="人生经验" scheme="http://kaixingwu.github.io/tags/%E4%BA%BA%E7%94%9F%E7%BB%8F%E9%AA%8C/"/>
+    
+  </entry>
   
   <entry>
     <title>给父亲装新PC主机</title>
