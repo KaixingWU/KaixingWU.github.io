@@ -6,8 +6,8 @@
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>关于我</p>
 <span id="more"></span>
 
-<p>现在我还不想告诉你我是谁，或许以后某一天我会重新编写这个页面。<br>不过如果你想联系我，欢迎发邮件到<font color=Blue><a href="mailto:&#119;&#x75;&#x6b;&#x61;&#105;&#120;&#x69;&#110;&#x67;&#49;&#x30;&#x40;&#103;&#x6d;&#x61;&#x69;&#108;&#46;&#x63;&#111;&#109;">&#119;&#x75;&#x6b;&#x61;&#105;&#120;&#x69;&#110;&#x67;&#49;&#x30;&#x40;&#103;&#x6d;&#x61;&#x69;&#108;&#46;&#x63;&#111;&#109;</a></font></p>
-<p>For now, I do not want to tell you who I am. Perheps I will rewrite this page some other day.<br>But if you want to reach me, you are welcome to send an email to <font color=Blue><a href="mailto:&#119;&#117;&#x6b;&#97;&#x69;&#x78;&#x69;&#x6e;&#x67;&#x31;&#48;&#x40;&#103;&#109;&#97;&#105;&#x6c;&#x2e;&#x63;&#111;&#109;">&#119;&#117;&#x6b;&#97;&#x69;&#x78;&#x69;&#x6e;&#x67;&#x31;&#48;&#x40;&#103;&#109;&#97;&#105;&#x6c;&#x2e;&#x63;&#111;&#109;</a></font></p>
+<p>现在我还不想告诉你我是谁，或许以后某一天我会重新编写这个页面。<br>不过如果你想联系我，欢迎发邮件到<font color=Blue><a href="mailto:&#119;&#117;&#x6b;&#x61;&#105;&#120;&#x69;&#x6e;&#x67;&#49;&#x30;&#64;&#103;&#x6d;&#97;&#105;&#108;&#x2e;&#x63;&#111;&#x6d;">&#119;&#117;&#x6b;&#x61;&#105;&#120;&#x69;&#x6e;&#x67;&#49;&#x30;&#64;&#103;&#x6d;&#97;&#105;&#108;&#x2e;&#x63;&#111;&#x6d;</a></font></p>
+<p>For now, I do not want to tell you who I am. Perheps I will rewrite this page some other day.<br>But if you want to reach me, you are welcome to send an email to <font color=Blue><a href="mailto:&#x77;&#117;&#107;&#x61;&#105;&#x78;&#105;&#x6e;&#103;&#x31;&#x30;&#64;&#103;&#x6d;&#97;&#x69;&#x6c;&#46;&#99;&#x6f;&#109;">&#x77;&#117;&#107;&#x61;&#105;&#x78;&#105;&#x6e;&#103;&#x31;&#x30;&#64;&#103;&#x6d;&#97;&#x69;&#x6c;&#46;&#99;&#x6f;&#109;</a></font></p>
 ]]></content>
   </entry>
   <entry>
@@ -85,21 +85,6 @@
       </tags>
   </entry>
   <entry>
-    <title>本博客的建立</title>
-    <url>/2021/12/21/Establishment-of-this-blog/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>记录一下本博客建立的过程与踩过的坑。</p>
-<span id="more"></span>
-<p>今天一天把这个博客搭建起来了，主要参考的资料是少数派的<a href="https://sspai.com/post/59337">这篇文章</a>和我使用的<a href="https://shen-yu.gitee.io/2019/ayer/">主题的博客</a>，我所采用的方案也是<a href="https://hexo.io/zh-cn/">Hexo</a>和Github Pages的结合。两篇文章写得非常详细，也能够覆盖我所遇到的大部分问题，但还是有些东西想提醒以后的自己或者其他人。</p>
-<p>一个问题是关于自己下载的主题使用。在Hexo/Themes文件中，下载的第三方主题文件夹名字需要和主题中自带的_config.yml中主题名字、Hexo/_config.yml中theme变量名字完全一样，不然可能会遇到deploy不了主题的麻烦。</p>
-<p>另一个问题是使用”hexo deploy”时的报错。有时候使用”hexo deploy”时会有”OpenSSL SSL_connect“相关的报错，这是因为使用梯子的时候没有采用全局模式，terminal和Github的连接被墙连接不上所导致的。解决的方案是使用梯子的全局模式或者关闭梯子尝试直接连接。</p>
-]]></content>
-      <tags>
-        <tag>博客</tag>
-        <tag>Hexo</tag>
-        <tag>Ayer</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>博客的初衷</title>
     <url>/2021/12/21/Intention-of-Blog/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>最初的我为什么想创立这个博客。</p>
@@ -115,28 +100,18 @@
       </tags>
   </entry>
   <entry>
-    <title>更改博客配置适应谷歌抓取</title>
-    <url>/2021/12/23/Optimize-Blog-for-search-engine/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>本文介绍今晚根据<a href="https://shen-yu.gitee.io/2020/hexo-seo/">Ayer的文章</a>和<a href="https://cloud.tencent.com/developer/article/1736970">其他人的博客</a>折腾怎么才能被google抓取博客网站的时候遇到的事情。</p>
+    <title>本博客的建立</title>
+    <url>/2021/12/21/Establishment-of-this-blog/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>记录一下本博客建立的过程与踩过的坑。</p>
 <span id="more"></span>
-<p>首先是先安装两个插件</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">yarn add hexo-generator-sitemap</span><br><span class="line">yarn add hexo-generator-baidu-sitemap</span><br></pre></td></tr></table></figure>
-
-<p>然后就是常规指令</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo clean</span><br><span class="line">hexo s</span><br><span class="line">hexo generate</span><br><span class="line">hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>其中，<code>hexo s</code>指令是查看<code>localhost:4000/sitemap.xml</code>和<code>localhost:4000/baidusitemap.xml</code>两个生成的文件是否有问题。</p>
-<p><font color=Red>注意！</font>在这两个文件最开始显示”<font color=Blue>This XML file does not appear to have any style information associated with it. The document tree is shown below.</font>“不代表文件有问题！</p>
-<p>另一个教训是<code>.md</code>文件的名字采用英文字符，标题用中文没关系。</p>
-<p>最后一个教训是，在谷歌的<a href="https://search.google.com/search-console?resource_id=https://kaixingwu.github.io/">站点地图</a>上传<code>.xml</code>站点地图后显示“无法获取”时不要慌。根据<a href="https://support.google.com/webmasters/answer/7474347?hl=zh-Hans">谷歌的说法</a>，可能需要一周的时间才有反馈和更新，心急吃不了热豆腐！</p>
+<p>今天一天把这个博客搭建起来了，主要参考的资料是少数派的<a href="https://sspai.com/post/59337">这篇文章</a>和我使用的<a href="https://shen-yu.gitee.io/2019/ayer/">主题的博客</a>，我所采用的方案也是<a href="https://hexo.io/zh-cn/">Hexo</a>和Github Pages的结合。两篇文章写得非常详细，也能够覆盖我所遇到的大部分问题，但还是有些东西想提醒以后的自己或者其他人。</p>
+<p>一个问题是关于自己下载的主题使用。在Hexo/Themes文件中，下载的第三方主题文件夹名字需要和主题中自带的_config.yml中主题名字、Hexo/_config.yml中theme变量名字完全一样，不然可能会遇到deploy不了主题的麻烦。</p>
+<p>另一个问题是使用”hexo deploy”时的报错。有时候使用”hexo deploy”时会有”OpenSSL SSL_connect“相关的报错，这是因为使用梯子的时候没有采用全局模式，terminal和Github的连接被墙连接不上所导致的。解决的方案是使用梯子的全局模式或者关闭梯子尝试直接连接。</p>
 ]]></content>
-      <categories>
-        <category>技术</category>
-      </categories>
       <tags>
         <tag>博客</tag>
-        <tag>google</tag>
-        <tag>Search-engine</tag>
+        <tag>Hexo</tag>
+        <tag>Ayer</tag>
       </tags>
   </entry>
   <entry>
@@ -192,6 +167,31 @@
         <tag>Positive-definite-matrix</tag>
         <tag>MIT</tag>
         <tag>Linear-algebra</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>更改博客配置适应谷歌抓取</title>
+    <url>/2021/12/23/Optimize-Blog-for-search-engine/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>本文介绍今晚根据<a href="https://shen-yu.gitee.io/2020/hexo-seo/">Ayer的文章</a>和<a href="https://cloud.tencent.com/developer/article/1736970">其他人的博客</a>折腾怎么才能被google抓取博客网站的时候遇到的事情。</p>
+<span id="more"></span>
+<p>首先是先安装两个插件</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">yarn add hexo-generator-sitemap</span><br><span class="line">yarn add hexo-generator-baidu-sitemap</span><br></pre></td></tr></table></figure>
+
+<p>然后就是常规指令</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo clean</span><br><span class="line">hexo s</span><br><span class="line">hexo generate</span><br><span class="line">hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>其中，<code>hexo s</code>指令是查看<code>localhost:4000/sitemap.xml</code>和<code>localhost:4000/baidusitemap.xml</code>两个生成的文件是否有问题。</p>
+<p><font color=Red>注意！</font>在这两个文件最开始显示”<font color=Blue>This XML file does not appear to have any style information associated with it. The document tree is shown below.</font>“不代表文件有问题！</p>
+<p>另一个教训是<code>.md</code>文件的名字采用英文字符，标题用中文没关系。</p>
+<p>最后一个教训是，在谷歌的<a href="https://search.google.com/search-console?resource_id=https://kaixingwu.github.io/">站点地图</a>上传<code>.xml</code>站点地图后显示“无法获取”时不要慌。根据<a href="https://support.google.com/webmasters/answer/7474347?hl=zh-Hans">谷歌的说法</a>，可能需要一周的时间才有反馈和更新，心急吃不了热豆腐！</p>
+]]></content>
+      <categories>
+        <category>技术</category>
+      </categories>
+      <tags>
+        <tag>博客</tag>
+        <tag>google</tag>
+        <tag>Search-engine</tag>
       </tags>
   </entry>
   <entry>

@@ -210,20 +210,6 @@
   </url>
   
   <url>
-    <loc>http://kaixingwu.github.io/tags/google/</loc>
-    <lastmod>2022-01-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://kaixingwu.github.io/tags/Search-engine/</loc>
-    <lastmod>2022-01-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://kaixingwu.github.io/tags/Matrix/</loc>
     <lastmod>2022-01-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -253,6 +239,20 @@
   
   <url>
     <loc>http://kaixingwu.github.io/tags/Linear-algebra/</loc>
+    <lastmod>2022-01-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://kaixingwu.github.io/tags/google/</loc>
+    <lastmod>2022-01-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://kaixingwu.github.io/tags/Search-engine/</loc>
     <lastmod>2022-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -289,14 +289,14 @@
   </url>
   
   <url>
-    <loc>http://kaixingwu.github.io/categories/%E6%8A%80%E6%9C%AF/</loc>
+    <loc>http://kaixingwu.github.io/categories/Research/</loc>
     <lastmod>2022-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://kaixingwu.github.io/categories/Research/</loc>
+    <loc>http://kaixingwu.github.io/categories/%E6%8A%80%E6%9C%AF/</loc>
     <lastmod>2022-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
