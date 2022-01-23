@@ -6,9 +6,24 @@
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>关于我</p>
 <span id="more"></span>
 
-<p>现在我还不想告诉你我是谁，或许以后某一天我会重新编写这个页面。<br>不过如果你想联系我，欢迎发邮件到<font color=Blue><a href="mailto:&#119;&#117;&#x6b;&#x61;&#105;&#120;&#x69;&#x6e;&#x67;&#49;&#x30;&#64;&#103;&#x6d;&#97;&#105;&#108;&#x2e;&#x63;&#111;&#x6d;">&#119;&#117;&#x6b;&#x61;&#105;&#120;&#x69;&#x6e;&#x67;&#49;&#x30;&#64;&#103;&#x6d;&#97;&#105;&#108;&#x2e;&#x63;&#111;&#x6d;</a></font></p>
-<p>For now, I do not want to tell you who I am. Perheps I will rewrite this page some other day.<br>But if you want to reach me, you are welcome to send an email to <font color=Blue><a href="mailto:&#x77;&#117;&#107;&#x61;&#105;&#x78;&#105;&#x6e;&#103;&#x31;&#x30;&#64;&#103;&#x6d;&#97;&#x69;&#x6c;&#46;&#99;&#x6f;&#109;">&#x77;&#117;&#107;&#x61;&#105;&#x78;&#105;&#x6e;&#103;&#x31;&#x30;&#64;&#103;&#x6d;&#97;&#x69;&#x6c;&#46;&#99;&#x6f;&#109;</a></font></p>
+<p>现在我还不想告诉你我是谁，或许以后某一天我会重新编写这个页面。<br>不过如果你想联系我，欢迎发邮件到<font color=Blue><a href="mailto:&#x77;&#x75;&#107;&#97;&#x69;&#x78;&#x69;&#110;&#x67;&#49;&#x30;&#64;&#x67;&#x6d;&#x61;&#x69;&#x6c;&#46;&#99;&#x6f;&#x6d;">&#x77;&#x75;&#107;&#97;&#x69;&#x78;&#x69;&#110;&#x67;&#49;&#x30;&#64;&#x67;&#x6d;&#x61;&#x69;&#x6c;&#46;&#99;&#x6f;&#x6d;</a></font></p>
+<p>For now, I do not want to tell you who I am. Perheps I will rewrite this page some other day.<br>But if you want to reach me, you are welcome to send an email to <font color=Blue><a href="mailto:&#119;&#x75;&#x6b;&#x61;&#x69;&#x78;&#105;&#110;&#x67;&#x31;&#x30;&#64;&#103;&#109;&#x61;&#x69;&#108;&#x2e;&#99;&#x6f;&#109;">&#119;&#x75;&#x6b;&#x61;&#x69;&#x78;&#105;&#110;&#x67;&#x31;&#x30;&#64;&#103;&#109;&#x61;&#x69;&#108;&#x2e;&#99;&#x6f;&#109;</a></font></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>本博客的建立</title>
+    <url>/2021/12/21/Establishment-of-this-blog/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>记录一下本博客建立的过程与踩过的坑。</p>
+<span id="more"></span>
+<p>今天一天把这个博客搭建起来了，主要参考的资料是少数派的<a href="https://sspai.com/post/59337">这篇文章</a>和我使用的<a href="https://shen-yu.gitee.io/2019/ayer/">主题的博客</a>，我所采用的方案也是<a href="https://hexo.io/zh-cn/">Hexo</a>和Github Pages的结合。两篇文章写得非常详细，也能够覆盖我所遇到的大部分问题，但还是有些东西想提醒以后的自己或者其他人。</p>
+<p>一个问题是关于自己下载的主题使用。在Hexo/Themes文件中，下载的第三方主题文件夹名字需要和主题中自带的_config.yml中主题名字、Hexo/_config.yml中theme变量名字完全一样，不然可能会遇到deploy不了主题的麻烦。</p>
+<p>另一个问题是使用”hexo deploy”时的报错。有时候使用”hexo deploy”时会有”OpenSSL SSL_connect“相关的报错，这是因为使用梯子的时候没有采用全局模式，terminal和Github的连接被墙连接不上所导致的。解决的方案是使用梯子的全局模式或者关闭梯子尝试直接连接。</p>
+]]></content>
+      <tags>
+        <tag>博客</tag>
+        <tag>Hexo</tag>
+        <tag>Ayer</tag>
+      </tags>
   </entry>
   <entry>
     <title>给父亲装新PC主机</title>
@@ -38,53 +53,6 @@
       </tags>
   </entry>
   <entry>
-    <title>有效沟通</title>
-    <url>/2021/12/22/Effective-communication/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>今天和父亲一起看了iCourt上陈少文老师关于有效沟通的课程，深有感触，于是把自己记录的笔记整理一下发到这里提醒自己做个记录，自己在之后的生活中要有意识地使用学到的论证逻辑、结构化话语。</p>
-<span id="more"></span>
-
-<h2 id="演讲首先给出了几种论证逻辑："><a href="#演讲首先给出了几种论证逻辑：" class="headerlink" title="演讲首先给出了几种论证逻辑："></a>演讲首先给出了几种论证逻辑：</h2><ol>
-<li><p><strong>线性逻辑</strong>（不是平均发力，找一个点深挖）<br>强逻辑（强说服力观点/无可反驳的逻辑）在前<br>先事实是否如此？后观点是否正确？再谈是否妥当？让步逻辑（即使……但是……）加强说服力</p>
-</li>
-<li><p><strong>拆分式论证</strong><br>直接改出一个定义，给出分类，让对方只能在自己的逻辑里面反驳自己。<br>常用方法有象限拆分，拆字。<br>比如：政府是否应该越小越好？<br>拆分政府：横轴：权利分类：县政府、县法院<br>&emsp;&emsp;&emsp;&emsp;&emsp;纵轴：政府从属关系：地方政府、中央政府<br>如果觉得县政府不公权力过大，会想让县法院权力更大；反之亦然。如果觉得地方政府不公，会想加强中央集权；反之亦然。于是证明问题是伪命题。<br>常见句式：XX无非以下几种：AA, BB, CC, DD.</p>
-</li>
-<li><p><strong>比较式论证</strong><br>把一个过于宏大、和人们生活脱节严重到没有感觉的概念和人们具体有感觉的事物放在一起比较。<br>比如：马云有1500亿资产（数字过大没有感觉），中了彩票500万（数字适当，人们有感）。1500亿相当于500万彩票连中3万天，每天中一次，等与大家从出生的那天每天中彩票，死的时候可能都没有1500亿。<br>再比如：德国在1870年统一之前四分五裂（德国？四分五裂？距离遥远，没有具体数字，没有感觉）。德国这个和云南省37万平方公里面积差不多的国家（德国可能不熟，云南大家都有感觉了），在1870年统一之前分成了1700多个国家（四分五裂没有感觉，云南分成1700多份就有感觉了），难怪小时候童话里公主总能遇到王子（另一个联想，更有幽默感，拉近距离）。</p>
-</li>
-</ol>
-<h2 id="演讲之后给出了提炼性的总结观点："><a href="#演讲之后给出了提炼性的总结观点：" class="headerlink" title="演讲之后给出了提炼性的总结观点："></a>演讲之后给出了提炼性的总结观点：</h2><p>信息结构化有助于记忆，论证结构化有助于说服</p>
-<h2 id="演讲给出了生活中实际可以用到的例子："><a href="#演讲给出了生活中实际可以用到的例子：" class="headerlink" title="演讲给出了生活中实际可以用到的例子："></a>演讲给出了生活中实际可以用到的例子：</h2><ul>
-<li>日常说理时候用到的<strong>话语结构</strong>：<br>你想说什么？（观点）<br>理由？<br>举个例子？（具体和生活的联系）<br>重复观点（很重要，强化说理）</li>
-</ul>
-<hr>
-<p>（以下是2021.12.24更新）</p>
-<h2 id="口语化沟通总述"><a href="#口语化沟通总述" class="headerlink" title="口语化沟通总述"></a>口语化沟通总述</h2><p>口语交互式沟通中：不要用逻辑，容易被打断；多用故事有助于记忆。</p>
-<p>理解、判断、记忆和在一个时间段，会反应不了<br>分成三段，一个都不能杂糅</p>
-<p>开始讲话时要先给出：路线图，时间表，让人们有预期。<br>比如：以下几点，每点几分钟（给出预期）</p>
-<h2 id="口语说话的四种结构"><a href="#口语说话的四种结构" class="headerlink" title="口语说话的四种结构"></a>口语说话的四种结构</h2><ol>
-<li><p><strong>竹节式分点，线性逻辑</strong><br>口语说服注意从对方的逻辑出发。<br>说话有条理，分点论述。<br>比如说服别人投资，就要说能不能赚钱，赚多少，为什么是我们，能赚多长时间；而不是我们做了什么，我们的产品用了什么技术……</p>
-</li>
-<li><p><strong>标准先行</strong><br>让结论变客观，而某个人或者事情符合这个标准。<br>比如：领导要找一个地方开年会度假。开年会的地方需要有100间客房，餐厅能同时容纳200人吃饭（标准立起来）。符合这个条件的地方北京有5个，另外四个已经被订满，只有XX最后这一个了。</p>
-</li>
-<li><p><strong>拆分信息/需求</strong><br>把信息拆分成可交互式的沟通方式。<br>交互式沟通中，信息不被问，信息就没有价值。<br>比如：杜拉拉升职记中：<br>| 领导：把公司搬到新地方要多少预算？| 杜：750万。|<br>| 领导：为什么这么贵？                         | 杜：……（原因） |<br>| 领导：能不能保证公司在年底能搬完？| 杜：能。……（原因） |<br>实际上上面的对话中，杜拉拉可以在说预算的时候一次性说完所有的信息，因为可以猜到领导要问什么，但是杜拉拉就是选择让领导主动问出来，这样传递的信息价值就增加了（对方主动想了解，而不是被动接受）。</p>
-</li>
-<li><p><strong>另立标准</strong>（不是二元对立针锋相对，而是立一个更高的标准）<br>不要把自己的标准和别人的标准对撞。<br>比如：《红楼梦》中，贾母认为某个人没有做好事（主仆标准）；王夫人认为那个人刚死了母亲，正披麻戴孝，没问题（孝道标准）；王熙凤调停，说最重要的是保证院子的安全（安全标准高于主仆和孝道），而且是自己没有让那个人去做事的（把自己和贾母的关系拿出来），<strong>如果要让那个人做事，自己可以再去叫她做</strong>（这一句话很重要）。</p>
-</li>
-</ol>
-<h2 id="说话的一些技巧："><a href="#说话的一些技巧：" class="headerlink" title="说话的一些技巧："></a>说话的一些技巧：</h2><p>让对方先听进去，即使是意见完全不同，也不要直接说“你说的不对”<br><strong>先接话，再说话</strong>。<br>常见句式比如：发表对某事的观点：<strong>“你说的是其一，其二是……”</strong>，别人以为是补充，实际是自己的反驳观点</p>
-<p>第一句话把自己软下来，把话接下来，沟通效率翻倍。<br>不要痛打落水狗。做人留一线，日后好相见。在对方已经服软改变观点看法的时候，不要再提及对方之前的观点有多么错误，会激发对方的反抗抵触情绪。</p>
-]]></content>
-      <categories>
-        <category>生活</category>
-      </categories>
-      <tags>
-        <tag>iCourt</tag>
-        <tag>有效沟通</tag>
-        <tag>陈少文</tag>
-        <tag>演讲</tag>
-        <tag>逻辑</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>博客的初衷</title>
     <url>/2021/12/21/Intention-of-Blog/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>最初的我为什么想创立这个博客。</p>
@@ -100,18 +68,49 @@
       </tags>
   </entry>
   <entry>
-    <title>本博客的建立</title>
-    <url>/2021/12/21/Establishment-of-this-blog/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>记录一下本博客建立的过程与踩过的坑。</p>
+    <title>听音乐会有感</title>
+    <url>/2022/01/24/Music-concert-in-qintai/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>记录昨晚听的音乐会和听音乐会产生的一点感想。</p>
 <span id="more"></span>
-<p>今天一天把这个博客搭建起来了，主要参考的资料是少数派的<a href="https://sspai.com/post/59337">这篇文章</a>和我使用的<a href="https://shen-yu.gitee.io/2019/ayer/">主题的博客</a>，我所采用的方案也是<a href="https://hexo.io/zh-cn/">Hexo</a>和Github Pages的结合。两篇文章写得非常详细，也能够覆盖我所遇到的大部分问题，但还是有些东西想提醒以后的自己或者其他人。</p>
-<p>一个问题是关于自己下载的主题使用。在Hexo/Themes文件中，下载的第三方主题文件夹名字需要和主题中自带的_config.yml中主题名字、Hexo/_config.yml中theme变量名字完全一样，不然可能会遇到deploy不了主题的麻烦。</p>
-<p>另一个问题是使用”hexo deploy”时的报错。有时候使用”hexo deploy”时会有”OpenSSL SSL_connect“相关的报错，这是因为使用梯子的时候没有采用全局模式，terminal和Github的连接被墙连接不上所导致的。解决的方案是使用梯子的全局模式或者关闭梯子尝试直接连接。</p>
+<p>昨晚和妈妈、小姨、妹妹一起去琴台音乐厅听了一场小型音乐会，他们在古典音乐的基础上加入了一些现代元素，可惜我没有能力说明改编的现代元素是什么，只能说听起来确实和传统的土耳其进行曲、斗牛犬进行曲等不太相同。</p>
+<p>在音乐会中间弹奏瑶族舞曲的时候，还没弹完但是弹奏到中间的时候音乐渐弱时大家以为已经曲终，遂开始鼓掌，可是随着钢琴声传来，人群开始意识到还未曲终，于是停止鼓掌。</p>
+<p>我当时的第一反应是尴尬，因为大家太着急没有等到音乐家曲终鼓掌的提示动作（手举高的结尾亮相），只得苦笑几声，觉得大家不懂规矩。</p>
+<p>但是转念一想，还可以有第二种想法，就是觉得民智还未开启，还需要让大家更多地前往欣赏艺术才能让大家明白怎么样听音乐会才是正确的。民智是可以开启的。</p>
+<p>第一种是以自我为中心，第二种是普渡天下众生的想法，帮助他人。</p>
 ]]></content>
+      <categories>
+        <category>生活</category>
+        <category>思考</category>
+      </categories>
+      <tags>
+        <tag>家人</tag>
+        <tag>音乐</tag>
+        <tag>思考</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>更改博客配置适应谷歌抓取</title>
+    <url>/2021/12/23/Optimize-Blog-for-search-engine/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>本文介绍今晚根据<a href="https://shen-yu.gitee.io/2020/hexo-seo/">Ayer的文章</a>和<a href="https://cloud.tencent.com/developer/article/1736970">其他人的博客</a>折腾怎么才能被google抓取博客网站的时候遇到的事情。</p>
+<span id="more"></span>
+<p>首先是先安装两个插件</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">yarn add hexo-generator-sitemap</span><br><span class="line">yarn add hexo-generator-baidu-sitemap</span><br></pre></td></tr></table></figure>
+
+<p>然后就是常规指令</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo clean</span><br><span class="line">hexo s</span><br><span class="line">hexo generate</span><br><span class="line">hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>其中，<code>hexo s</code>指令是查看<code>localhost:4000/sitemap.xml</code>和<code>localhost:4000/baidusitemap.xml</code>两个生成的文件是否有问题。</p>
+<p><font color=Red>注意！</font>在这两个文件最开始显示”<font color=Blue>This XML file does not appear to have any style information associated with it. The document tree is shown below.</font>“不代表文件有问题！</p>
+<p>另一个教训是<code>.md</code>文件的名字采用英文字符，标题用中文没关系。</p>
+<p>最后一个教训是，在谷歌的<a href="https://search.google.com/search-console?resource_id=https://kaixingwu.github.io/">站点地图</a>上传<code>.xml</code>站点地图后显示“无法获取”时不要慌。根据<a href="https://support.google.com/webmasters/answer/7474347?hl=zh-Hans">谷歌的说法</a>，可能需要一周的时间才有反馈和更新，心急吃不了热豆腐！</p>
+]]></content>
+      <categories>
+        <category>技术</category>
+      </categories>
       <tags>
         <tag>博客</tag>
-        <tag>Hexo</tag>
-        <tag>Ayer</tag>
+        <tag>google</tag>
+        <tag>Search-engine</tag>
       </tags>
   </entry>
   <entry>
@@ -170,31 +169,6 @@
       </tags>
   </entry>
   <entry>
-    <title>更改博客配置适应谷歌抓取</title>
-    <url>/2021/12/23/Optimize-Blog-for-search-engine/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>本文介绍今晚根据<a href="https://shen-yu.gitee.io/2020/hexo-seo/">Ayer的文章</a>和<a href="https://cloud.tencent.com/developer/article/1736970">其他人的博客</a>折腾怎么才能被google抓取博客网站的时候遇到的事情。</p>
-<span id="more"></span>
-<p>首先是先安装两个插件</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">yarn add hexo-generator-sitemap</span><br><span class="line">yarn add hexo-generator-baidu-sitemap</span><br></pre></td></tr></table></figure>
-
-<p>然后就是常规指令</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo clean</span><br><span class="line">hexo s</span><br><span class="line">hexo generate</span><br><span class="line">hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>其中，<code>hexo s</code>指令是查看<code>localhost:4000/sitemap.xml</code>和<code>localhost:4000/baidusitemap.xml</code>两个生成的文件是否有问题。</p>
-<p><font color=Red>注意！</font>在这两个文件最开始显示”<font color=Blue>This XML file does not appear to have any style information associated with it. The document tree is shown below.</font>“不代表文件有问题！</p>
-<p>另一个教训是<code>.md</code>文件的名字采用英文字符，标题用中文没关系。</p>
-<p>最后一个教训是，在谷歌的<a href="https://search.google.com/search-console?resource_id=https://kaixingwu.github.io/">站点地图</a>上传<code>.xml</code>站点地图后显示“无法获取”时不要慌。根据<a href="https://support.google.com/webmasters/answer/7474347?hl=zh-Hans">谷歌的说法</a>，可能需要一周的时间才有反馈和更新，心急吃不了热豆腐！</p>
-]]></content>
-      <categories>
-        <category>技术</category>
-      </categories>
-      <tags>
-        <tag>博客</tag>
-        <tag>google</tag>
-        <tag>Search-engine</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Understand matrix multiplication</title>
     <url>/2021/12/30/Understand-matrix-multiplication/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>This is the notes of part of Lecture 3 from MIT course 18.06, linear algebra. The content will help my future research work.</p>
@@ -246,6 +220,53 @@
         <tag>家人</tag>
         <tag>年终总结</tag>
         <tag>人生经验</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>有效沟通</title>
+    <url>/2021/12/22/Effective-communication/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>今天和父亲一起看了iCourt上陈少文老师关于有效沟通的课程，深有感触，于是把自己记录的笔记整理一下发到这里提醒自己做个记录，自己在之后的生活中要有意识地使用学到的论证逻辑、结构化话语。</p>
+<span id="more"></span>
+
+<h2 id="演讲首先给出了几种论证逻辑："><a href="#演讲首先给出了几种论证逻辑：" class="headerlink" title="演讲首先给出了几种论证逻辑："></a>演讲首先给出了几种论证逻辑：</h2><ol>
+<li><p><strong>线性逻辑</strong>（不是平均发力，找一个点深挖）<br>强逻辑（强说服力观点/无可反驳的逻辑）在前<br>先事实是否如此？后观点是否正确？再谈是否妥当？让步逻辑（即使……但是……）加强说服力</p>
+</li>
+<li><p><strong>拆分式论证</strong><br>直接改出一个定义，给出分类，让对方只能在自己的逻辑里面反驳自己。<br>常用方法有象限拆分，拆字。<br>比如：政府是否应该越小越好？<br>拆分政府：横轴：权利分类：县政府、县法院<br>&emsp;&emsp;&emsp;&emsp;&emsp;纵轴：政府从属关系：地方政府、中央政府<br>如果觉得县政府不公权力过大，会想让县法院权力更大；反之亦然。如果觉得地方政府不公，会想加强中央集权；反之亦然。于是证明问题是伪命题。<br>常见句式：XX无非以下几种：AA, BB, CC, DD.</p>
+</li>
+<li><p><strong>比较式论证</strong><br>把一个过于宏大、和人们生活脱节严重到没有感觉的概念和人们具体有感觉的事物放在一起比较。<br>比如：马云有1500亿资产（数字过大没有感觉），中了彩票500万（数字适当，人们有感）。1500亿相当于500万彩票连中3万天，每天中一次，等与大家从出生的那天每天中彩票，死的时候可能都没有1500亿。<br>再比如：德国在1870年统一之前四分五裂（德国？四分五裂？距离遥远，没有具体数字，没有感觉）。德国这个和云南省37万平方公里面积差不多的国家（德国可能不熟，云南大家都有感觉了），在1870年统一之前分成了1700多个国家（四分五裂没有感觉，云南分成1700多份就有感觉了），难怪小时候童话里公主总能遇到王子（另一个联想，更有幽默感，拉近距离）。</p>
+</li>
+</ol>
+<h2 id="演讲之后给出了提炼性的总结观点："><a href="#演讲之后给出了提炼性的总结观点：" class="headerlink" title="演讲之后给出了提炼性的总结观点："></a>演讲之后给出了提炼性的总结观点：</h2><p>信息结构化有助于记忆，论证结构化有助于说服</p>
+<h2 id="演讲给出了生活中实际可以用到的例子："><a href="#演讲给出了生活中实际可以用到的例子：" class="headerlink" title="演讲给出了生活中实际可以用到的例子："></a>演讲给出了生活中实际可以用到的例子：</h2><ul>
+<li>日常说理时候用到的<strong>话语结构</strong>：<br>你想说什么？（观点）<br>理由？<br>举个例子？（具体和生活的联系）<br>重复观点（很重要，强化说理）</li>
+</ul>
+<hr>
+<p>（以下是2021.12.24更新）</p>
+<h2 id="口语化沟通总述"><a href="#口语化沟通总述" class="headerlink" title="口语化沟通总述"></a>口语化沟通总述</h2><p>口语交互式沟通中：不要用逻辑，容易被打断；多用故事有助于记忆。</p>
+<p>理解、判断、记忆和在一个时间段，会反应不了<br>分成三段，一个都不能杂糅</p>
+<p>开始讲话时要先给出：路线图，时间表，让人们有预期。<br>比如：以下几点，每点几分钟（给出预期）</p>
+<h2 id="口语说话的四种结构"><a href="#口语说话的四种结构" class="headerlink" title="口语说话的四种结构"></a>口语说话的四种结构</h2><ol>
+<li><p><strong>竹节式分点，线性逻辑</strong><br>口语说服注意从对方的逻辑出发。<br>说话有条理，分点论述。<br>比如说服别人投资，就要说能不能赚钱，赚多少，为什么是我们，能赚多长时间；而不是我们做了什么，我们的产品用了什么技术……</p>
+</li>
+<li><p><strong>标准先行</strong><br>让结论变客观，而某个人或者事情符合这个标准。<br>比如：领导要找一个地方开年会度假。开年会的地方需要有100间客房，餐厅能同时容纳200人吃饭（标准立起来）。符合这个条件的地方北京有5个，另外四个已经被订满，只有XX最后这一个了。</p>
+</li>
+<li><p><strong>拆分信息/需求</strong><br>把信息拆分成可交互式的沟通方式。<br>交互式沟通中，信息不被问，信息就没有价值。<br>比如：杜拉拉升职记中：<br>| 领导：把公司搬到新地方要多少预算？| 杜：750万。|<br>| 领导：为什么这么贵？                         | 杜：……（原因） |<br>| 领导：能不能保证公司在年底能搬完？| 杜：能。……（原因） |<br>实际上上面的对话中，杜拉拉可以在说预算的时候一次性说完所有的信息，因为可以猜到领导要问什么，但是杜拉拉就是选择让领导主动问出来，这样传递的信息价值就增加了（对方主动想了解，而不是被动接受）。</p>
+</li>
+<li><p><strong>另立标准</strong>（不是二元对立针锋相对，而是立一个更高的标准）<br>不要把自己的标准和别人的标准对撞。<br>比如：《红楼梦》中，贾母认为某个人没有做好事（主仆标准）；王夫人认为那个人刚死了母亲，正披麻戴孝，没问题（孝道标准）；王熙凤调停，说最重要的是保证院子的安全（安全标准高于主仆和孝道），而且是自己没有让那个人去做事的（把自己和贾母的关系拿出来），<strong>如果要让那个人做事，自己可以再去叫她做</strong>（这一句话很重要）。</p>
+</li>
+</ol>
+<h2 id="说话的一些技巧："><a href="#说话的一些技巧：" class="headerlink" title="说话的一些技巧："></a>说话的一些技巧：</h2><p>让对方先听进去，即使是意见完全不同，也不要直接说“你说的不对”<br><strong>先接话，再说话</strong>。<br>常见句式比如：发表对某事的观点：<strong>“你说的是其一，其二是……”</strong>，别人以为是补充，实际是自己的反驳观点</p>
+<p>第一句话把自己软下来，把话接下来，沟通效率翻倍。<br>不要痛打落水狗。做人留一线，日后好相见。在对方已经服软改变观点看法的时候，不要再提及对方之前的观点有多么错误，会激发对方的反抗抵触情绪。</p>
+]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
+      <tags>
+        <tag>iCourt</tag>
+        <tag>有效沟通</tag>
+        <tag>陈少文</tag>
+        <tag>演讲</tag>
+        <tag>逻辑</tag>
       </tags>
   </entry>
 </search>
